@@ -2,6 +2,10 @@
 
 @variant dark (&:where(.dark, .dark *));
 
+button, a {
+  cursor: pointer;
+}
+
 @theme {
   --color-rose-50: #fff1f2;
   --color-rose-200: #fecdd3;
