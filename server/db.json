@@ -1,0 +1,304 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "The Bear",
+      "creator": "Christopher Storer",
+      "year": 2022,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 3,
+      "note": "Intense kitchen drama."
+    },
+    {
+      "id": 2,
+      "title": "Severance",
+      "creator": "Dan Erickson",
+      "year": 2022,
+      "genre": "Sci-Fi",
+      "status": "done",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 3,
+      "title": "Succession",
+      "creator": "Jesse Armstrong",
+      "year": 2018,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 2,
+      "note": "Masterpiece."
+    },
+    {
+      "id": 4,
+      "title": "Euphoria",
+      "creator": "Sam Levinson",
+      "year": 2019,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 3,
+      "note": null
+    },
+    {
+      "id": 5,
+      "title": "The Last of Us",
+      "creator": "Neil Druckmann",
+      "year": 2023,
+      "genre": "Sci-Fi",
+      "status": "done",
+      "rating": 5,
+      "note": "Great adaptation."
+    },
+    {
+      "id": 6,
+      "title": "Beef",
+      "creator": "Lee Sung Jin",
+      "year": 2023,
+      "genre": "Comedy",
+      "status": "active",
+      "rating": 4,
+      "note": null
+    },
+    {
+      "id": 7,
+      "title": "Ted Lasso",
+      "creator": "Bill Lawrence",
+      "year": 2020,
+      "genre": "Comedy",
+      "status": "done",
+      "rating": 5,
+      "note": "Very wholesome."
+    },
+    {
+      "id": 8,
+      "title": "Dark",
+      "creator": "Baran bo Odar",
+      "year": 2017,
+      "genre": "Sci-Fi",
+      "status": "done",
+      "rating": 5,
+      "note": "Mind-bending."
+    },
+    {
+      "id": 9,
+      "title": "The Sandman",
+      "creator": "Neil Gaiman",
+      "year": 2022,
+      "genre": "Fantasy",
+      "status": "want",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 10,
+      "title": "Stranger Things",
+      "creator": "The Duffer Brothers",
+      "year": 2016,
+      "genre": "Sci-Fi",
+      "status": "active",
+      "rating": 4,
+      "note": "Classic fun."
+    },
+    {
+      "id": 11,
+      "title": "Black Mirror",
+      "creator": "Charlie Brooker",
+      "year": 2011,
+      "genre": "Sci-Fi",
+      "status": "want",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 12,
+      "title": "House of the Dragon",
+      "creator": "Ryan Condal",
+      "year": 2022,
+      "genre": "Fantasy",
+      "status": "active",
+      "rating": 4,
+      "note": null
+    },
+    {
+      "id": 13,
+      "title": "Breaking Bad",
+      "creator": "Vince Gilligan",
+      "year": 2008,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 5,
+      "note": "Top tier."
+    },
+    {
+      "id": 14,
+      "title": "Better Call Saul",
+      "creator": "Vince Gilligan",
+      "year": 2015,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 5,
+      "note": "Incredible writing."
+    },
+    {
+      "id": 15,
+      "title": "The Office",
+      "creator": "Greg Daniels",
+      "year": 2005,
+      "genre": "Comedy",
+      "status": "done",
+      "rating": 5,
+      "note": "Comfort watch."
+    },
+    {
+      "id": 16,
+      "title": "Sherlock",
+      "creator": "Mark Gatiss",
+      "year": 2010,
+      "genre": "Crime",
+      "status": "done",
+      "rating": 2,
+      "note": "Lost interest."
+    },
+    {
+      "id": 17,
+      "title": "Mindhunter",
+      "creator": "Joe Penhall",
+      "year": 2017,
+      "genre": "Crime",
+      "status": "want",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 18,
+      "title": "Narcos",
+      "creator": "Chris Brancato",
+      "year": 2015,
+      "genre": "Crime",
+      "status": "done",
+      "rating": 4,
+      "note": "Engaging."
+    },
+    {
+      "id": 19,
+      "title": "Squid Game",
+      "creator": "Hwang Dong-hyuk",
+      "year": 2021,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 4,
+      "note": null
+    },
+    {
+      "id": 20,
+      "title": "Arcane",
+      "creator": "Christian Linke",
+      "year": 2021,
+      "genre": "Fantasy",
+      "status": "done",
+      "rating": 5,
+      "note": "Best animation ever."
+    },
+    {
+      "id": 21,
+      "title": "The Witcher",
+      "creator": "Lauren Schmidt Hissrich",
+      "year": 2019,
+      "genre": "Fantasy",
+      "status": "done",
+      "rating": 2,
+      "note": null
+    },
+    {
+      "id": 22,
+      "title": "Peaky Blinders",
+      "creator": "Steven Knight",
+      "year": 2013,
+      "genre": "Crime",
+      "status": "done",
+      "rating": 5,
+      "note": "Stylish."
+    },
+    {
+      "id": 23,
+      "title": "Fargo",
+      "creator": "Noah Hawley",
+      "year": 2014,
+      "genre": "Crime",
+      "status": "want",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 24,
+      "title": "True Detective",
+      "creator": "Nic Pizzolatto",
+      "year": 2014,
+      "genre": "Crime",
+      "status": "active",
+      "rating": 4,
+      "note": null
+    },
+    {
+      "id": 25,
+      "title": "Westworld",
+      "creator": "Jonathan Nolan",
+      "year": 2016,
+      "genre": "Sci-Fi",
+      "status": "done",
+      "rating": 2,
+      "note": null
+    },
+    {
+      "id": 26,
+      "title": "Vikings",
+      "creator": "Michael Hirst",
+      "year": 2013,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 4,
+      "note": null
+    },
+    {
+      "id": 27,
+      "title": "The Crown",
+      "creator": "Peter Morgan",
+      "year": 2016,
+      "genre": "Drama",
+      "status": "want",
+      "rating": null,
+      "note": null
+    },
+    {
+      "id": 28,
+      "title": "Ozark",
+      "creator": "Bill Dubuque",
+      "year": 2017,
+      "genre": "Crime",
+      "status": "done",
+      "rating": 4,
+      "note": null
+    },
+    {
+      "id": 29,
+      "title": "Mr. Robot",
+      "creator": "Sam Esmail",
+      "year": 2015,
+      "genre": "Drama",
+      "status": "done",
+      "rating": 5,
+      "note": "Mind-blowing."
+    },
+    {
+      "id": 30,
+      "title": "Yellowjackets",
+      "creator": "Ashley Lyle",
+      "year": 2021,
+      "genre": "Drama",
+      "status": "active",
+      "rating": 4,
+      "note": null
+    }
+  ]
+}
